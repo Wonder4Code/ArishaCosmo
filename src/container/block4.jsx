@@ -26,7 +26,8 @@ const StyledButton = styled.a`
   border: none;
   padding: 16px 0;
   border-radius: 8px;
-  width: 470px;
+  width: 100%;
+  max-width: 470px;
   margin-top: 32px;
   text-decoration: none;
   
