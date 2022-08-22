@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/ArishaCosmo/static/js/main.e38bbfee.js",
+    "main.js": "/ArishaCosmo/static/js/main.cf026ba9.js",
     "static/media/last.jpg": "/ArishaCosmo/static/media/last.647472718d5a0f0aac5c.jpg",
     "static/media/third.jpg": "/ArishaCosmo/static/media/third.98190b9fe4a938e89a84.jpg",
     "static/media/second.jpg": "/ArishaCosmo/static/media/second.ac93582b25d3d663380b.jpg",
     "static/media/main.jpg": "/ArishaCosmo/static/media/main.fe527798a8f8f1e6aa84.jpg",
     "index.html": "/ArishaCosmo/index.html",
-    "main.e38bbfee.js.map": "/ArishaCosmo/static/js/main.e38bbfee.js.map"
+    "main.cf026ba9.js.map": "/ArishaCosmo/static/js/main.cf026ba9.js.map"
   },
   "entrypoints": [
-    "static/js/main.e38bbfee.js"
+    "static/js/main.cf026ba9.js"
   ]
 }
