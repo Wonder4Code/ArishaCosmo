@@ -10,7 +10,7 @@ import {Block4} from "./container/block4";
 const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
-    padding: 8px;
+    padding: 48px 8px;
     font-family: "Roboto", sans-serif;
     background: #c9bed4;
   }
